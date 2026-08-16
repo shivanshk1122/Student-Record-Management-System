@@ -52,3 +52,28 @@ Person
    |
    ↓
 Student
+## Screenshots
+
+### Main Menu
+
+![Main Menu](Screenshots/main-menu.png)
+
+### Add Student
+
+![Add Student](Screenshots/add-student.png)
+
+### Display Students
+
+![Display Students](Screenshots/display-students.png)
+
+### Search Student
+
+![Search Student](Screenshots/search-student.png)
+
+### Update Student
+
+![Update Student](Screenshots/update-student.png)
+
+### Delete Student
+
+![Delete Student](Screenshots/delete-student.png)
