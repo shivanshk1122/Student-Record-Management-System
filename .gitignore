@@ -1,8 +1,11 @@
 # Compiled executable
 student_manager.exe
+*.exe
 
-#VS Code settings
+# VS Code settings
 .vscode/
 
-#Temporary files
+# Object and temporary files
+*.o
+*.out
 *.tmp
